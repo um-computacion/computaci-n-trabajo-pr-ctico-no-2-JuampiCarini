@@ -7,6 +7,7 @@ class TestPalindrome(unittest.TestCase):
         self.assertTrue(is_palindrome("solos"))
         self.assertTrue(is_palindrome("rallar"))
 
+
     def test_phrase_palindromes(self):
         self.assertTrue(is_palindrome("amo, la paloma!"))
         self.assertTrue(is_palindrome("amor a roma"))
@@ -24,3 +25,5 @@ class TestPalindrome(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
+   
