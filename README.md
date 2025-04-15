@@ -2,6 +2,7 @@
 # Trabajo Práctico 2: Desarrollo Guiado por Pruebas (TDD) - Detector de Palíndromos
 
 ## Identificación del Alumno
+feature/-agregar-tests-para-casos-edge
 **Nombre y Apellido:** Juan Pablo Carini
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
